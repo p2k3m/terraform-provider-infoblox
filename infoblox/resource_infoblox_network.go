@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/hashicorp/terraform/helper/schema"
-	ibclient "github.com/infobloxopen/infoblox-go-client/v2"
+	ibclient "github.com/p2k3m/infoblox-go-client"
 )
 
 func resourceNetwork() *schema.Resource {
