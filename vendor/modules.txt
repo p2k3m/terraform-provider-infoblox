@@ -180,8 +180,6 @@ github.com/hashicorp/terraform/version
 github.com/hashicorp/terraform-config-inspect/tfconfig
 # github.com/hashicorp/yamux v0.0.0-20180604194846-3520598351bb
 github.com/hashicorp/yamux
-## explicit
-github.com/p2k3m/infoblox-go-client
 # github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
 github.com/jmespath/go-jmespath
 # github.com/magefile/mage v1.10.0
@@ -211,6 +209,9 @@ github.com/mitchellh/mapstructure
 github.com/mitchellh/reflectwalk
 # github.com/oklog/run v1.0.0
 github.com/oklog/run
+# github.com/p2k3m/infoblox-go-client v1.0.1
+## explicit
+github.com/p2k3m/infoblox-go-client
 # github.com/posener/complete v1.2.1
 github.com/posener/complete
 github.com/posener/complete/cmd
